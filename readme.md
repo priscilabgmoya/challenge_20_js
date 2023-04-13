@@ -21,7 +21,7 @@ En una terminal seleccionar la carpeta donde se va a descargar el mismo
 ### paso 2 
 escribimos en la terminal la siguiente linea de codigo: 
 ```
-git clone https://github.com/priscilabgmoya/challenge_16_js
+git clone https://github.com/priscilabgmoya/challenge_20_js
 ```
 ## Autores 
 - Se realizo en grupo con participantes de la comsion 48i.
