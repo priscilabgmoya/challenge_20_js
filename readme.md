@@ -1,4 +1,4 @@
-# Challenge 16 - JavaScript
+# Challenge 20 - JavaScript
 
 ## Descripcion de las actividades 
 Los temas abarcados por lo mismo enunciados: 
